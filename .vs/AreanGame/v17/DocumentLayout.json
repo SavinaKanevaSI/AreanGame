@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\s-user\\onedrive\\savina\\_uni\\2nd semester\\oop2\\areangame\\areangame\\winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|solutionrelative:consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\heroes\\fairy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\fairy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\heroes\\assassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\assassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\heroes\\unicorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\unicorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\heroes\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\weapons\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\weapons\\wings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\wings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\weapons\\wand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\wand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:11:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Sword.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:12:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assassin.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Assassin.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Assassin.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Assassin.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Assassin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:41:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ConsoleArenaGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleArenaGame\\Program.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ConsoleArenaGame\\Program.cs",
+              "RelativeToolTip": "ConsoleArenaGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:50:31.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Knight.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Knight.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:46:08.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\GameEngine.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\GameEngine.cs",
+              "RelativeToolTip": "ArenaGame\\GameEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:52:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:07:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fairy.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Fairy.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Fairy.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Fairy.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Fairy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:41:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Star.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Star.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Star.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Star.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:40:37.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\WinFormArenaGame\\MainForm.cs [Design]",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:07:04.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Unicorn.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Unicorn.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Unicorn.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Unicorn.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Unicorn.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:24:00.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Wizard.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Wizard.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Heroes\\Wizard.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Wizard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:17:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wings.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Wings.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Wings.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Wings.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Wings.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:16:10.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wand.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Wand.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Wand.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Wand.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Wand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:12:36.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Dagger.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Dagger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:47:02.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\IWeapon.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\IWeapon.cs",
+              "RelativeToolTip": "ArenaGame\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:19:27.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\IHero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IHero.cs",
+              "ToolTip": "C:\\Users\\S-USER\\OneDrive\\Savina\\_UNI\\2nd semester\\OOP2\\AreanGame\\AreanGame\\ArenaGame\\IHero.cs",
+              "RelativeToolTip": "ArenaGame\\IHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:39:47.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
